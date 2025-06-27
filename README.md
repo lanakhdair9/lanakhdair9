@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Lana! <br/><a href="">Networks and Cybersecurity Professional </a>  </h1>
+
+<h2>👨‍💻 Networks Projects:</h2>
+
+- <b>Graduation project </b>
+  - [Reverse engineering](https://github.com/)
+
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2> Certifications:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="lanakhdair9 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/lana-khdair-209506313/
 
 <!--
-**lanakhdair9/lanakhdair9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
